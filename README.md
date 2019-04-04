@@ -1,7 +1,7 @@
 # ProtRep-training
 Training material on protein repeats
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/) [![Join the chat at https://gitter.im/4OSS-lesson/Lobby](https://badges.gitter.im/4OSS-lesson/Lobby.svg)](https://gitter.im/4OSS-lesson/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/) 
 
 ## Overview
 
