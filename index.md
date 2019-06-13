@@ -3,7 +3,7 @@ layout: lesson
 root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
-FIXME: home page introduction
+Curriculum for Tandem Repeat Proteins (TRPs) detection, classification and annotation.
 
 <!-- this is an html comment -->
 
