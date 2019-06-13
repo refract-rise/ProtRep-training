@@ -1,20 +1,8 @@
-# ProtRep-training
-Training material on protein repeats
+# FIXME Lesson title
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/) 
+[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
 
 This repository generates the corresponding lesson website from [The Carpentries](https://carpentries.org/) repertoire of lessons. 
-
-## Overview
-
-Lesson development for training in Tandem Repeat proteins is based on four simple recommendations [1](https://f1000research.com/articles/6-876/v1). We are adopting the Open Source philosophy and policy 
-for developing and maintaning training material to help us in providing clear guidelines on how to annotate repeat proteins.
-1. Make source code publicly accessible from day one
-1. Adopt a licence and comply with the licence of third-party dependencies
-1. Define clear and transparent contribution, governance and communication processes
-1. Make software easy to discover by providing software metadata via a popular community registry
-
-[1] https://f1000research.com/articles/6-876/v1
 
 ## Contributing
 
@@ -50,4 +38,3 @@ A list of contributors to the lesson can be found in [AUTHORS](AUTHORS)
 To cite this lesson, please consult with [CITATION](CITATION)
 
 [lesson-example]: https://carpentries.github.io/lesson-example
-
