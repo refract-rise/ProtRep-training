@@ -48,7 +48,7 @@ and to meet some of our community members.
 
 1.  If you wish to change this lesson,
     please work in <https://github.com/refract-rise/repeat-proteins-training>,
-    which can be viewed at FIXME.
+    which can be viewed at <https://refract-rise.github.io/repeat-proteins-training/>.
 
 2.  If you wish to change the example lesson,
     please work in <https://github.com/carpentries/lesson-example>,
