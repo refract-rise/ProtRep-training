@@ -1,9 +1,10 @@
-# Repeat proteins training
+# Repeat proteins, explained
 Training material on protein repeats
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badge/) 
 
-This repository generates the corresponding lesson website, according to styles and recommentations from 
+This repository generates the corresponding [lesson website](https://refract-rise.github.io/repeat-proteins-training/), 
+according to styles and recommentations from 
 [The Carpentries](https://carpentries.org/). 
 
 ## Overview

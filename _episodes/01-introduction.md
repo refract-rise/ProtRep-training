@@ -1,24 +1,18 @@
 ---
 title: "Introduction"
-teaching: 60
-exercises: 0
+teaching: 30
+exercises: 10
 questions:
-- "Key question (FIXME)"
+- "What do we need to know before going through the following lessons?"
 objectives:
-- "First learning objective. (FIXME)"
+- "Learn the basic terminology about protein structures"
+- "Recognize different types of secondary structure."
+- "Understand how secondary structure elements interact in the tertiary structure."
 keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "First key point. Brief Answer to questions. TDB"
 ---
-FIXME
+The lesson is currently under development. Fill free to suggest contents for this lesson. ![good_first_issue](https://img.shields.io/badge/-good%20first%20issue-gold.svg)
 
-> If the shape of an individual data file is `(60, 40)` (60 rows and 40
-> columns), what would the shape of the array be after you run the `diff()`
-> function and why?
->
-> > ## Solution
-> > The shape will be `(60, 39)` because there is one fewer difference between
-> > columns than there are columns in the data.
-> {: .solution}
-
+Add exercise: label different secondary structure elements. ![TODO](../badges/TODO)
 {% include links.md %}
 
