@@ -11,8 +11,65 @@ objectives:
 keypoints:
 - "First key point. Brief Answer to questions. TDB"
 ---
-The lesson is currently under development. Fill free to suggest contents for this lesson. ![good_first_issue](https://img.shields.io/badge/-good%20first%20issue-gold.svg)
 
-Add exercise: label different secondary structure elements. ![TODO](../badges/TODO)
+The lesson is currently under development. Fill free to suggest contents for this lesson. 
+![good_first_issue](https://img.shields.io/badge/Issues-Good_first_issue-FFAF59.svg?style=popout) ![TODO](https://img.shields.io/badge/Tasks-TO_DO-93357F.svg?style=popout)
+
+
+## Table of Contents
+
+- [TODO tasks](#tasks)
+- [Layouts](#layouts)
+
+
+### Tasks
+
+- Add exercise: label different secondary structure elements. 
+
+### Layouts
+
+Some examples of text: **bold** or *italic*, [link to Refract](http://refract-rise.eu).
+
+Layout for callout:
+> ## Callout title
+>
+> Callout text
+{: .callout}
+
+Layout for codebox:
+~~~
+variable = trial
+~~~
+{: .language-python}
+Use `weight_kg` to cite variables.
+
+Errors:
+~~~
+Error text
+~~~
+{: .error}
+Output:
+~~~
+Output text
+~~~
+{: .output}
+
+Layout for exercises:
+> Write here question
+>
+> > ## Solution
+> > Write here solution
+> {: .solution}
+
+Layout for exercise with title:
+> ## Exercise title
+>
+> Question text
+>
+> > ## Solution
+> > Solution text
+> {: .solution}
+{: .challenge}
+
 {% include links.md %}
 

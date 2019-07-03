@@ -18,34 +18,21 @@ keypoints:
 - "First key point."
 ---
 
-> If the shape of an individual data file is `(60, 40)` (60 rows and 40
-> columns), what would the shape of the array be after you run the `diff()`
-> function and why?
->
-> > ## Solution
-> > The shape will be `(60, 39)` because there is one fewer difference between
-> > columns than there are columns in the data.
-> {: .solution}
+## Table of Contents
 
-Add exercise: identify smallest structural repeat = unit. ![TODO](../badges/TODO)
+- [TODO tasks](#tasks)
 
-Add exercise: label different tandem repeat classes. ![TODO](../badges/TODO)
+### Tasks
 
-Add exercise: Match global arrangement to unit shape. ![TODO](../badges/TODO)
-
-Add exercise: How many PDBs mapped to entry XXX? Which is the one with highest coverage?  ![TODO](../badges/TODO)
-
-Add exercise: B-factor value of residue XXX in chain XXX ![TODO](../badges/TODO)
-
-Add exercise: Use script to color units (previous annotation) / change B-factor to color residues ![TODO](../badges/TODO)
-
-Add exercise: How many units in example entry?  ![TODO](../badges/TODO)
-
-Add exercise: How many units in example entry?  ![TODO](../badges/TODO)
-
-Add exercise: How many units in entry predicted by RepeatsDB-Lite?  ![TODO](../badges/TODO)
-
-Add exercise: Curate RepeatsDB-Lite prediction.  ![TODO](../badges/TODO)
+- Add exercise: identify smallest structural repeat = unit. 
+- Add exercise: label different tandem repeat classes. 
+- Add exercise: Match global arrangement to unit shape. 
+- Add exercise: How many PDBs mapped to entry XXX? Which is the one with highest coverage?  
+- Add exercise: B-factor value of residue XXX in chain XXX 
+- Add exercise: Use script to color units (previous annotation) / change B-factor to color residues 
+- Add exercise: How many units in example entry? 
+- Add exercise: How many units in entry predicted by RepeatsDB-Lite?  
+- Add exercise: Curate RepeatsDB-Lite prediction. 
 
 
 {% include links.md %}
